@@ -1,4 +1,4 @@
-# CS256-Jupyter-DataScienceLab
+#Lab 5: CS256-Jupyter-DataScienceLab
 
 This GitHub repository was made for nbgitpuller to pull into SOU Jupyter Hub instance. 
 After the Jupyter notebook has launched in your Jupyter Hub instance, carefully complete
